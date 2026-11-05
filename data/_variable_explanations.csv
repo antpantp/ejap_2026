@@ -1,0 +1,37 @@
+Variable;Description;Unit;Measurement System
+Time;Time of measurement during exercise;sec;Timestamp1SecInterval
+WorkRate;Exercise load or power output on ergometer;W;CycleErgometer
+HR;Heart rate;beats/min;PolarH10
+VO2pulm;Oxygen uptake measured at the mouth (pulmonary VO2);L/min;Spiroergometry
+VO2_movMean;Moving average of VO2 to smooth breath-by-breath fluctuations;L/min;Spiroergometry
+VO2peak_abs;Absolute peak oxygen uptake achieved during test;L/min;Spiroergometry
+VO2peak_rel;Peak oxygen uptake normalized/relative to body mass;mL/kg/min;Spiroergometry
+PeakPower;Maximum achieved work rate during test;W;Spiroergometry
+VCO2;Carbon dioxide output;L/min;Spiroergometry
+FO2et;Fraction of end-tidal oxygen (concentration of O2 at end of exhalation);%;Spiroergometry
+FCO2et;Fraction of end-tidal carbon dioxide (concentration of CO2 at end of exhalation);%;Spiroergometry
+Vent;Minute ventilation – total air breathed per minute;L/min;Spiroergometry
+VT;Tidal volume – air per breath;L;Spiroergometry
+BF;Breathing frequency – breaths per minute;breaths/min;Spiroergometry
+SV;Stroke volume – blood pumped per beat;mL;Finapres
+CO;Cardiac output – total blood pumped per minute;L/min;Finapres
+dPdt;Rate of pressure change in arterial waveform – contractility indicator;mmHg/s;Finapres
+SPTI;Systolic Pressure–Time Integral – work of the heart during systole;mmHg�s;Finapres
+RPP;Rate Pressure Product = HR × systolic BP – estimate of myocardial oxygen demand;–;Finapres
+DPTI;Diastolic Pressure–Time Integral – measure of coronary perfusion;mmHg�s;Finapres
+DPTISPTI;Ratio of DPTI/SPTI – balance of myocardial oxygen supply and demand;–;Finapres
+LVET;Left Ventricular Ejection Time – time of blood ejection;ms;Finapres
+Cwk;Arterial compliance (Windkessel compliance) – elasticity of arteries;mL/mmHg;Finapres
+Rp;Peripheral resistance – resistance in smaller arteries;mmHg�min/L;Finapres
+TPR;Total Peripheral Resistance – systemic vascular resistance;mmHg�min/L;Finapres
+fiSYS;Finger systolic blood pressure from Finapres cuff;mmHg;Finapres
+fiMAP;Finger mean arterial pressure;mmHg;Finapres
+fiDIA;Finger diastolic blood pressure;mmHg;Finapres
+sBP;Reconstructed systolic brachial blood pressure;mmHg;Finapres
+mBP;Reconstructed mean brachial blood pressure;mmHg;Finapres
+dBP;Reconstructed diastolic brachial blood pressure;mmHg;Finapres
+absO2Hb_Rx1;Absolute oxygenated hemoglobin concentration at sensor 1;µmol/L or AU;Moxy/NIRS
+absHHb_Rx1;Absolute deoxygenated hemoglobin concentration at sensor 1;µmol/L or AU;Moxy/NIRS
+TSI_Rx1_Tx1Tx2Tx3;Tissue Saturation Index – ratio of oxyHb to total Hb (%);%;Moxy/NIRS
+TSI_FF_Rx1_Tx1Tx2Tx3;Filtered/fitted TSI – smoothed tissue oxygen saturation value;%;Moxy/NIRS
+RpM;Pedalling cadence from the cycle ergometer;rev/min;CycleErgometer

@@ -1,0 +1,24 @@
+{
+  "python": "3.12.13",
+  "validation_environment": {
+    "numpy": "2.4.2",
+    "scipy": "1.17.0",
+    "pandas": "3.0.0",
+    "scikit-learn": "1.8.0",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.6.0",
+    "matplotlib": "3.10.9",
+    "openpyxl": "not installed in smoke-check environment"
+  },
+  "python_files_compiled_and_imported": 19,
+  "notebooks_cleared_and_code_preserved": 11,
+  "modeling_module_unchanged": true,
+  "sensor_configuration_loads": true,
+  "synthetic_smoke_check": "passed in separate command",
+  "data_and_model_files_included": false,
+  "private_paths_and_common_credential_patterns_found": false,
+  "prior_git_history_included": false,
+  "full_study_rerun": false,
+  "fresh_install_of_all_pins_tested": false,
+  "license": "MIT"
+}

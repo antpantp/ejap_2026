@@ -1,0 +1,3 @@
+RpM denotes cycle-ergometer pedalling cadence (rev/min).
+The primary all-signals model retains its five work-rate-conditioned descriptors.
+The cadence-ablation analysis removes those descriptors only.
