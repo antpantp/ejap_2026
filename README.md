@@ -35,4 +35,4 @@ Outputs are written locally under `results/`, `images/`, and `models/`; these pa
 
 ## Citation and licensing
 
-The code is released under the [MIT License](LICENSE). Add the final article citation and repository URL before publishing. See [docs/publication_decisions.md](docs/publication_decisions.md).
+The code is released under the [MIT License](LICENSE). The final article citation to be added.
